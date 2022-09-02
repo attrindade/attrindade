@@ -1,4 +1,4 @@
-### Hi there 👋 I'm André 🧘‍♂️👨‍💻 
+## Hi there 👋 I'm André 🧘‍♂️👨‍💻 
 
 <!--
 **attrindade/attrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,8 +9,13 @@ Here are some ideas to get you started:
 - 🔭 I’m an enthusiastic data science learner
 - 🌱 I’m currently learning SQL, 
 
-💬 Sometimes I like to write things here...
+### 💬 Sometimes I like to write things here...
 
-🤝🏽 Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-attrindade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/attrindaed/)](https://www.linkedin.com/in/attrindade/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@attrindade/)](https://medium.com/@attrindade)
+
+### 🤝🏽 Connect with me:
+
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/attrindaed/)](https://www.linkedin.com/in/attrindade/)
+
 
